@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../资料/spring.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../资料/spring.jar!/" />
+    </SOURCES>
+  </library>
+</component>

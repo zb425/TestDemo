@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b9fe7ef-83ec-4439-9f16-952713d9cca5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../java/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h28IEW6gtJIglIm57QYXYujNG8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.44712645" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bgamq.reflect" />
+      <recent name="reflect" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_WORKPACK\javastudent\studentManager\src\com\bgamq" />
+      <recent name="D:\IDEA_WORKPACK\javastudent\studentManager\src" />
+      <recent name="D:\IDEA_WORKPACK\javastudent\spring\src\com\bgamq\annotaion" />
+      <recent name="D:\IDEA_WORKPACK\javastudent\spring\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Condition">
+    <configuration name="CompletableFutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bgamq.locks.CompletableFutureDemo" />
+      <module name="locks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bgamq.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bgamq.locks.Condition" />
+      <module name="locks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bgamq.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bgamq.locks.FutureDemo" />
+      <module name="locks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bgamq.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bgamq.locks.ReadWriteLockDemo" />
+      <module name="locks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bgamq.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bgamq.locks.ThreadPool" />
+      <module name="locks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bgamq.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Condition" />
+        <item itemvalue="Application.CompletableFutureDemo" />
+        <item itemvalue="Application.FutureDemo" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9fe7ef-83ec-4439-9f16-952713d9cca5" name="Default Changelist" comment="" />
+      <created>1599197747771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599197747771</updated>
+      <workItem from="1599197758075" duration="22757000" />
+      <workItem from="1599271398830" duration="7575000" />
+      <workItem from="1599287627256" duration="11152000" />
+      <workItem from="1599360954886" duration="2438000" />
+      <workItem from="1599725886260" duration="66000" />
+      <workItem from="1599726020638" duration="91000" />
+      <workItem from="1599728690477" duration="665000" />
+      <workItem from="1599738445477" duration="287000" />
+      <workItem from="1599738751077" duration="128000" />
+      <workItem from="1599738916136" duration="15000" />
+      <workItem from="1599738963225" duration="2137000" />
+      <workItem from="1599781341245" duration="3000" />
+      <workItem from="1599785396818" duration="14000" />
+      <workItem from="1599785453059" duration="2959000" />
+      <workItem from="1599800521464" duration="4623000" />
+      <workItem from="1599868548468" duration="2448000" />
+      <workItem from="1599954741724" duration="1317000" />
+      <workItem from="1600174110221" duration="207000" />
+      <workItem from="1600588538582" duration="772000" />
+      <workItem from="1600608180576" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1599726084471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599726084471" />
+    <state x="464" y="185" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1599740125549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="185" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1599740125549" />
+    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599197828378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599197828378" />
+    <state x="598" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1599223348685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599223348685" />
+    <state x="448" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599292939613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1599292939613" />
+    <state x="661" y="229" width="751" height="595" key="#xdebugger.evaluate" timestamp="1599274990541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="661" y="229" width="751" height="595" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1599274990541" />
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1600600550959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600600550959" />
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom" timestamp="1600600552071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600600552071" />
+    <state width="1493" height="262" key="GridCell.Tab.0.center" timestamp="1600600552070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600600552070" />
+    <state width="1493" height="262" key="GridCell.Tab.0.left" timestamp="1600600552070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600600552070" />
+    <state width="1493" height="262" key="GridCell.Tab.0.right" timestamp="1600600552070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600600552070" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599740739994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599740739994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599740739994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599740739994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599740739994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599740739994" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599740739994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599740739994" />
+    <state x="15" y="54" width="996" height="707" key="SettingsEditor" timestamp="1600608328807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="15" y="54" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600608328807" />
+    <state x="973" y="141" width="561" height="524" key="StructurePopup" timestamp="1599212153750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="973" y="141" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1599212153750" />
+    <state x="248" y="31" key="new project wizard" timestamp="1600174323662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="31" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600174323662" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599200632326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599200632326" />
+    <state x="731" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599790415202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="731" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599790415202" />
+  </component>
+</project>
